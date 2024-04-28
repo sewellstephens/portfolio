@@ -1,8 +1,8 @@
-# Open source portfolio/blog boilerplate
+# Open source portfolio code
 
 Open source portfolio template built in [eleventy](https://11ty.dev), and blog content using Decap CMS
 
-[Live example](https://11ty-decap-cms-boilerplate-ss.netlify.app/)
+[Currenty hosted here](https://sewellstephens.com)
 
 ## Features include
 
