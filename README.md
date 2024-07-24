@@ -1,8 +1,8 @@
+Please note: this repo is no longer maintained and has been archived.
+
 # Open source portfolio code
 
 Open source portfolio template built in [eleventy](https://11ty.dev), and blog content using Decap CMS
-
-[Currenty hosted here](https://sewellstephens.com)
 
 ## Features include
 
